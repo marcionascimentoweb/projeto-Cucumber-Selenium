@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-15">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/marcio_2021/coti_Informatica/Teste_Software_Sergio/libs/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="E:/marcio_2021/coti_Informatica/Teste_Software_Sergio/libs/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="E:/marcio_2021/coti_Informatica/Teste_Software_Sergio/libs/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="E:/marcio_2021/coti_Informatica/Teste_Software_Sergio/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="E:/marcio_2021/coti_Informatica/Teste_Software_Sergio/libs/cucumber-core-2.4.0.jar"/>
+	<classpathentry kind="lib" path="E:/marcio_2021/coti_Informatica/Teste_Software_Sergio/libs/cucumber-java-2.4.0.jar"/>
+	<classpathentry kind="lib" path="E:/marcio_2021/coti_Informatica/Teste_Software_Sergio/libs/cucumber-junit-2.4.0.jar"/>
+	<classpathentry kind="lib" path="E:/marcio_2021/coti_Informatica/Teste_Software_Sergio/libs/cucumber-jvm-deps-1.0.6.jar"/>
+	<classpathentry kind="lib" path="E:/marcio_2021/coti_Informatica/Teste_Software_Sergio/libs/gherkin-5.0.0.jar"/>
+	<classpathentry kind="lib" path="E:/marcio_2021/coti_Informatica/Teste_Software_Sergio/libs/gherkin-jvm-deps-1.0.4.jar"/>
+	<classpathentry kind="lib" path="E:/marcio_2021/coti_Informatica/Teste_Software_Sergio/libs/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="E:/marcio_2021/coti_Informatica/Teste_Software_Sergio/libs/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="E:/marcio_2021/coti_Informatica/Teste_Software_Sergio/libs/mockito-all-1.10.19.jar"/>
+	<classpathentry kind="lib" path="E:/marcio_2021/coti_Informatica/Teste_Software_Sergio/libs/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="E:/marcio_2021/coti_Informatica/Teste_Software_Sergio/libs/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="E:/marcio_2021/coti_Informatica/Teste_Software_Sergio/aula04-25.03.21/commons-io-2.8.0/commons-io-2.8.0.jar"/>
+	<classpathentry kind="lib" path="E:/marcio_2021/coti_Informatica/Teste_Software_Sergio/aula04-25.03.21/commons-io-2.8.0/commons-io-2.8.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/marcio_2021/coti_Informatica/Teste_Software_Sergio/aula04-25.03.21/commons-io-2.8.0/commons-io-2.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="E:/marcio_2021/coti_Informatica/Teste_Software_Sergio/aula04-25.03.21/commons-io-2.8.0/commons-io-2.8.0-tests.jar"/>
+	<classpathentry kind="lib" path="E:/marcio_2021/coti_Informatica/Teste_Software_Sergio/aula04-25.03.21/commons-io-2.8.0/commons-io-2.8.0-test-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
